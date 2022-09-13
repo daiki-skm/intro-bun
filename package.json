@@ -1,4 +1,8 @@
 {
+  "name": "intro-bun",
+  "scripts": {
+    "clean": "rm -rf dist node_modules"
+  },
   "dependencies": {
     "bun-types": "^0.1.11"
   }
